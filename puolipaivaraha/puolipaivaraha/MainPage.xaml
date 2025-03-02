@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="puolipaivaraha.MainPage">
+
+    <VerticalStackLayout Padding="20" Spacing="20"
+                         VerticalOptions="Center" 
+                         HorizontalOptions="Center">
+
+        <!-- Laskurin näyttävä Label -->
+        <Label 
+            x:Name="CounterLabel"
+            Text="0"
+            FontSize="48"
+            HorizontalOptions="Center">
+        </Label>
+
+        <!-- Nappi, joka kasvattaa laskuria -->
+        <Button 
+            Text="Lisää" 
+            FontSize="24"
+            Clicked="OnCounterClicked">
+        </Button>
+        
+        <!-- teksti boksi, johon laitetaan tunnit -->
+        <Entry 
+            x:Name="entry"
+            Placeholder="Enter text">
+        </Entry>
+        
+        <!-- Nappi, joka lisää tunnit -->
+        <Button 
+            Text="Lisää" 
+            FontSize="24"
+            Clicked="HoursAdded">
+        </Button>
+
+    </VerticalStackLayout>
+
+</ContentPage>
