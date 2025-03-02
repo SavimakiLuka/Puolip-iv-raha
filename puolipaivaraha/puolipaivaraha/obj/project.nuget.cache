@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KnzKXpyq/zo=",
+  "dgSpecHash": "UBDNRC7HbQ4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lukas\\Desktop\\puolipaivaraha\\puolipaivaraha\\puolipaivaraha.csproj",
+  "projectFilePath": "C:\\Users\\lukas\\Desktop\\C#\\Puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\puolipaivaraha.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lukas\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\lukas\\.nuget\\packages\\googlegson\\2.11.0.3\\googlegson.2.11.0.3.nupkg.sha512",

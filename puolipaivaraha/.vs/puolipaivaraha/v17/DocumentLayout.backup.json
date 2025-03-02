@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lukas\\Desktop\\puolipaivaraha\\",
+  "WorkspaceRootPath": "C:\\Users\\lukas\\Desktop\\C#\\Puolip-iv-raha\\puolipaivaraha\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{909A4346-11F6-4FCE-B7E8-A2DFFBFAB372}|puolipaivaraha\\puolipaivaraha.csproj|c:\\users\\lukas\\desktop\\puolipaivaraha\\puolipaivaraha\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{909A4346-11F6-4FCE-B7E8-A2DFFBFAB372}|puolipaivaraha\\puolipaivaraha.csproj|c:\\users\\lukas\\desktop\\c#\\puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{909A4346-11F6-4FCE-B7E8-A2DFFBFAB372}|puolipaivaraha\\puolipaivaraha.csproj|solutionrelative:puolipaivaraha\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{909A4346-11F6-4FCE-B7E8-A2DFFBFAB372}|puolipaivaraha\\puolipaivaraha.csproj|c:\\users\\lukas\\desktop\\puolipaivaraha\\puolipaivaraha\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{909A4346-11F6-4FCE-B7E8-A2DFFBFAB372}|puolipaivaraha\\puolipaivaraha.csproj|c:\\users\\lukas\\desktop\\c#\\puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{909A4346-11F6-4FCE-B7E8-A2DFFBFAB372}|puolipaivaraha\\puolipaivaraha.csproj|solutionrelative:puolipaivaraha\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{909A4346-11F6-4FCE-B7E8-A2DFFBFAB372}|puolipaivaraha\\puolipaivaraha.csproj|c:\\users\\lukas\\desktop\\puolipaivaraha\\puolipaivaraha\\newfolder\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{909A4346-11F6-4FCE-B7E8-A2DFFBFAB372}|puolipaivaraha\\puolipaivaraha.csproj|c:\\users\\lukas\\desktop\\c#\\puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\newfolder\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{909A4346-11F6-4FCE-B7E8-A2DFFBFAB372}|puolipaivaraha\\puolipaivaraha.csproj|solutionrelative:puolipaivaraha\\newfolder\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{909A4346-11F6-4FCE-B7E8-A2DFFBFAB372}|puolipaivaraha\\puolipaivaraha.csproj|c:\\users\\lukas\\desktop\\puolipaivaraha\\puolipaivaraha\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{909A4346-11F6-4FCE-B7E8-A2DFFBFAB372}|puolipaivaraha\\puolipaivaraha.csproj|c:\\users\\lukas\\desktop\\c#\\puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{909A4346-11F6-4FCE-B7E8-A2DFFBFAB372}|puolipaivaraha\\puolipaivaraha.csproj|solutionrelative:puolipaivaraha\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\puolipaivaraha\\puolipaivaraha\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\Puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\App.xaml.cs",
               "RelativeDocumentMoniker": "puolipaivaraha\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\lukas\\Desktop\\puolipaivaraha\\puolipaivaraha\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\Puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\App.xaml.cs",
               "RelativeToolTip": "puolipaivaraha\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\puolipaivaraha\\puolipaivaraha\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\Puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "puolipaivaraha\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\lukas\\Desktop\\puolipaivaraha\\puolipaivaraha\\MainPage.xaml.cs*",
-              "RelativeToolTip": "puolipaivaraha\\MainPage.xaml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\Puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\MainPage.xaml.cs",
+              "RelativeToolTip": "puolipaivaraha\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T12:04:35.145Z",
               "EditorCaption": ""
@@ -57,11 +57,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\puolipaivaraha\\puolipaivaraha\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\Puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\MainPage.xaml",
               "RelativeDocumentMoniker": "puolipaivaraha\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\lukas\\Desktop\\puolipaivaraha\\puolipaivaraha\\MainPage.xaml*",
-              "RelativeToolTip": "puolipaivaraha\\MainPage.xaml*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwCIAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\Puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\MainPage.xaml",
+              "RelativeToolTip": "puolipaivaraha\\MainPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-01T08:35:45.093Z",
               "EditorCaption": ""
@@ -70,9 +70,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\puolipaivaraha\\puolipaivaraha\\NewFolder\\MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\Puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\NewFolder\\MainViewModel.cs",
               "RelativeDocumentMoniker": "puolipaivaraha\\NewFolder\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\lukas\\Desktop\\puolipaivaraha\\puolipaivaraha\\NewFolder\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\Puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\NewFolder\\MainViewModel.cs",
               "RelativeToolTip": "puolipaivaraha\\NewFolder\\MainViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

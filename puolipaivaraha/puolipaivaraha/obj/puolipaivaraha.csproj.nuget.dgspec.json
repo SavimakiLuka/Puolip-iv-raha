@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukas\\Desktop\\puolipaivaraha\\puolipaivaraha\\puolipaivaraha.csproj": {}
+    "C:\\Users\\lukas\\Desktop\\C#\\Puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\puolipaivaraha.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukas\\Desktop\\puolipaivaraha\\puolipaivaraha\\puolipaivaraha.csproj": {
+    "C:\\Users\\lukas\\Desktop\\C#\\Puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\puolipaivaraha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukas\\Desktop\\puolipaivaraha\\puolipaivaraha\\puolipaivaraha.csproj",
+        "projectUniqueName": "C:\\Users\\lukas\\Desktop\\C#\\Puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\puolipaivaraha.csproj",
         "projectName": "puolipaivaraha",
-        "projectPath": "C:\\Users\\lukas\\Desktop\\puolipaivaraha\\puolipaivaraha\\puolipaivaraha.csproj",
+        "projectPath": "C:\\Users\\lukas\\Desktop\\C#\\Puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\puolipaivaraha.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukas\\Desktop\\puolipaivaraha\\puolipaivaraha\\obj\\",
+        "outputPath": "C:\\Users\\lukas\\Desktop\\C#\\Puolip-iv-raha\\puolipaivaraha\\puolipaivaraha\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

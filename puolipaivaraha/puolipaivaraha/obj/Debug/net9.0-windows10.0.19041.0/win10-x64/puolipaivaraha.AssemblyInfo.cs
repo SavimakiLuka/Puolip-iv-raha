@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("puolipaivaraha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a76de7a78329454c4d0b3751131cab949f8a7c28")]
 [assembly: System.Reflection.AssemblyProductAttribute("puolipaivaraha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("puolipaivaraha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

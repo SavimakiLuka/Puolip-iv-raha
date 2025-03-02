@@ -6,35 +6,47 @@
     <VerticalStackLayout Padding="20" Spacing="20"
                          VerticalOptions="Center" 
                          HorizontalOptions="Center">
+        <Grid ColumnDefinitions="*,Auto">
+            
 
-        <!-- Laskurin näyttävä Label -->
-        <Label 
-            x:Name="CounterLabel"
-            Text="0"
-            FontSize="48"
-            HorizontalOptions="Center">
-        </Label>
+            <!-- Laskurin näyttävä Label 
+            <Label 
+                x:Name="CounterLabel"
+                Text="0"
+                FontSize="48"
+                HorizontalOptions="Center"
+                Grid.Row="0"
+                Grid.Column="0">
+            </Label> -->
 
-        <!-- Nappi, joka kasvattaa laskuria -->
-        <Button 
-            Text="Lisää" 
-            FontSize="24"
-            Clicked="OnCounterClicked">
-        </Button>
+            <!-- Nappi, joka kasvattaa laskuria 
+            <Button 
+                Text="Lisää" 
+                FontSize="24"
+                Clicked="OnCounterClicked"
+                Grid.Row="0"
+                Grid.Column="1">
+            </Button> -->
+
+            <!-- teksti boksi, johon laitetaan tunnit -->
+            <Entry
+                x:Name="entry"
+                Placeholder="Enter hours"
+                Grid.Row="1"
+                Grid.Column="0">
+            </Entry>
         
-        <!-- teksti boksi, johon laitetaan tunnit -->
-        <Entry 
-            x:Name="entry"
-            Placeholder="Enter text">
-        </Entry>
-        
-        <!-- Nappi, joka lisää tunnit -->
-        <Button 
-            Text="Lisää" 
-            FontSize="24"
-            Clicked="HoursAdded">
-        </Button>
+            <!-- Nappi, joka lisää tunnit -->
+            <Button 
+                Text="Add" 
+                FontSize="24"
+                Clicked="HoursAdded"
+                Grid.Row="1"
+                Grid.Column="2">
+            </Button>
 
+        </Grid>
+        
     </VerticalStackLayout>
 
 </ContentPage>
